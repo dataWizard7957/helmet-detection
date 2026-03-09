@@ -127,7 +127,7 @@ helmet_detection
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/helmet_detection.git
+git clone https://github.com/your-username/helmet_detection.git
 cd helmet_detection
 ```
 
